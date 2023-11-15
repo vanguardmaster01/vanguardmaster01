@@ -1,7 +1,7 @@
 <p align='center'>
- <p align='center'>Hey there 👋 </p>
+ <p align='center'> <h1 style='color: #218bff;'> Hey there 👋 </h1></p>
 </p>
- 
+
 ## Full Stack Developerd
  
 -I'm a passionate full stack developer with a strong background in developing web applications such as GoLang and Python. 
