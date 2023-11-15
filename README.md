@@ -1,12 +1,14 @@
-# Hey there 👋
+<p align='center'>
+# Hey there 👋 
+</p>
  
 ## Full Stack Developerd
  
--I'm a passionate full stack developer with a strong background in developing web applications such as GoLang and Python.  
+-I'm a passionate full stack developer with a strong background in developing web applications such as GoLang and Python. 
 -I enjoy working with cutting-edge technologies to bring ideas to life and deliver high-quality software.
  
 ## 🚀 Skills and Technologies
-
+ 
 - Frontend: JavaScript, React, , HTML, CSS, SASS
 - Backend: GoLang, Django, Flask
 - Databases: MySQL, MongoDB, PostgreSQL, GORM
