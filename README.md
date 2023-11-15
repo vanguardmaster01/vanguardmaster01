@@ -1,5 +1,5 @@
 <p align='center'>
- <p align='center'> <h1 style='color: #218bff;'> Hey there 👋 </h1></p>
+ <p align='center'> <span style='font-weight: 500; color: #218bff;'> Hey there 👋 </span></p>
 </p>
 
 ## Full Stack Developerd
