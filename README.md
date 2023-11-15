@@ -11,4 +11,4 @@ I enjoy working with cutting-edge technologies to bring ideas to life and delive
 - Version Control: Git, GitHub
 - Other: RESTful APIs
  
-I'm always open to new opportunities, collaborations, and discussions!😊
+I'm always open to new opportunities, collaborations, and discussions! 😊
