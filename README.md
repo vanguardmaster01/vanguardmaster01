@@ -1,5 +1,5 @@
 ### Hi there 👋
-                     ### Full Stack Developer
+<h1 style="text-align: center;"> Full Stack Developer </h1>
 I'm a passionate full stack developer with a strong background in developing web applications such as GoLang and Python. 
 I enjoy working with cutting-edge technologies to bring ideas to life and deliver high-quality software.
  
