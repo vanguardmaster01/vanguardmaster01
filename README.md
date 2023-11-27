@@ -1,6 +1,6 @@
 # Hey there 👋
  
-## Full Stack Developerd
+## Full Stack Developer
  
 I'm a passionate full stack developer with a strong background in developing web applications using GoLang, Python, react
  
